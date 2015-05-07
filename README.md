@@ -1,5 +1,5 @@
 # ADB-Google-Glass
-Mac Only.
+Mac Only.  For Android devices running KitKat 4.4 or XE22.
 
 Automated installation and uninstallation of .apk to Google Glass using ADB.  Automates the terminal registration process for Android Debug Bridge.  Then prompts to install or uninstall apk.
 
