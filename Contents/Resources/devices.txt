@@ -1,0 +1,3 @@
+List of devices attached 
+015DA6FC13016018	device
+
