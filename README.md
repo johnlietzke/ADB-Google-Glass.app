@@ -4,7 +4,7 @@ Mac Only.  Should work on all Android devices and versions which use ADB.
 Specifically Designed for Google Glass running KitKat 4.4 or XE22.
 
 
-Automated installation and uninstallation of .apk to Google Glass using ADB.  Automates the terminal registration process for Android Debug Bridge.  Then prompts to install or uninstall apk.
+Automated installation and uninstallation of .apk to Google Glass using ADB.   Automates the terminal registration process for Android Debug Bridge.  Then prompts to install or uninstall apk.
 
 The purpose of this build is to streamline the registration of USB and WiFi connected Android devices to the Android Debug Bridge (ADB). It is designed to be an all in one, lightweight, ready to use setup to quickly register and allow commandline input for ADB through the terminal application.  It also automates the installation and uninstallation process of .apks.
 
