@@ -1,5 +1,6 @@
 # ADB-Google-Glass
 Mac Only.  Should work on all Android devices and versions which use ADB.
+
 Specifically Designed for Google Glass running KitKat 4.4 or XE22.
 
 
